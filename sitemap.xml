@@ -168,4 +168,46 @@
     <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/confidentialite/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/privacy/"/>
   </url>
+  <url>
+    <loc>https://wardenindustries.com/private-ai/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/ia-privee/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/"/>
+  </url>
+  <url>
+    <loc>https://wardenindustries.com/fr/ia-privee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/ia-privee/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/"/>
+  </url>
+  <url>
+    <loc>https://wardenindustries.com/private-ai/compliance-diagnostic/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/ia-privee/diagnostic-conformite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/>
+  </url>
+  <url>
+    <loc>https://wardenindustries.com/fr/ia-privee/diagnostic-conformite/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/ia-privee/diagnostic-conformite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/>
+  </url>
+  <url>
+    <loc>https://wardenindustries.com/private-ai/compliance-packages/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/compliance-packages/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/ia-privee/forfaits-conformite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-packages/"/>
+  </url>
+  <url>
+    <loc>https://wardenindustries.com/fr/ia-privee/forfaits-conformite/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/compliance-packages/"/>
+    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/ia-privee/forfaits-conformite/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-packages/"/>
+  </url>
 </urlset>
