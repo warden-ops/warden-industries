@@ -360,3 +360,4 @@ ul,ol{margin:0;padding:0;list-style:none}
 .badge img{display:block;margin:0 auto}
 @media (max-width:1020px){.feat .badge{margin:0 auto}}
 .bfact strong{white-space:nowrap}
+.tier-top .price{font-size:clamp(20px,1.7vw,24px);line-height:1.2;letter-spacing:-.015em}
