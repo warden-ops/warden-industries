@@ -1,206 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://wardenindustries.com/</loc>
-    <lastmod>2026-11-11</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/about/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/about/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/a-propos/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/about/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/a-propos/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/about/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/a-propos/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/about/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/capabilities/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/capabilities/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/capacites/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/capabilities/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/capacites/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/capabilities/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/capacites/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/capabilities/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/capabilities/cybersecurity/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/capabilities/cybersecurity/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/capacites/cybersecurite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/capabilities/cybersecurity/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/capacites/cybersecurite/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/capabilities/cybersecurity/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/capacites/cybersecurite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/capabilities/cybersecurity/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/capabilities/security-consulting/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/capabilities/security-consulting/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/capacites/conseil-securite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/capabilities/security-consulting/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/capacites/conseil-securite/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/capabilities/security-consulting/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/capacites/conseil-securite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/capabilities/security-consulting/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/capabilities/industrial-automation/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/capabilities/industrial-automation/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/capacites/automatisation-industrielle/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/capabilities/industrial-automation/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/capacites/automatisation-industrielle/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/capabilities/industrial-automation/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/capacites/automatisation-industrielle/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/capabilities/industrial-automation/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/capabilities/engineering-rd/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/capabilities/engineering-rd/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/capacites/ingenierie-rd/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/capabilities/engineering-rd/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/capacites/ingenierie-rd/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/capabilities/engineering-rd/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/capacites/ingenierie-rd/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/capabilities/engineering-rd/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/industrial/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/industrial/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/industriel/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/industrial/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/industriel/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/industrial/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/industriel/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/industrial/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/private-sector/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-sector/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/secteur-prive/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-sector/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/secteur-prive/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-sector/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/secteur-prive/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-sector/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/defence/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/defence/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/defense/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/defence/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/defense/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/defence/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/defense/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/defence/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/rfq/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/rfq/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/soumission/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/rfq/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/soumission/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/rfq/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/soumission/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/rfq/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/privacy/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/privacy/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/confidentialite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/privacy/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/confidentialite/</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/privacy/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/confidentialite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/privacy/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/private-ai/</loc>
-    <lastmod>2026-11-11</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/private-ai/compliance-diagnostic/</loc>
-    <lastmod>2026-11-11</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/ia-privee/diagnostic-conformite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/ia-privee/diagnostic-conformite/</loc>
-    <lastmod>2026-11-11</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/ia-privee/diagnostic-conformite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/private-ai/compliance-packages/</loc>
-    <lastmod>2026-11-11</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/compliance-packages/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/ia-privee/forfaits-conformite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-packages/"/>
-  </url>
-  <url>
-    <loc>https://wardenindustries.com/fr/ia-privee/forfaits-conformite/</loc>
-    <lastmod>2026-11-11</lastmod>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://wardenindustries.com/private-ai/compliance-packages/"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://wardenindustries.com/fr/ia-privee/forfaits-conformite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-packages/"/>
-  </url>
+<url><loc>https://wardenindustries.com/private-ai/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/private-ai/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/ia-privee/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/ia-privee/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/private-ai/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/ia-privee/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/private-ai/compliance-diagnostic/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/ia-privee/diagnostic-conformite/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/ia-privee/diagnostic-conformite/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/ia-privee/diagnostic-conformite/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-diagnostic/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/private-ai/compliance-packages/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/private-ai/compliance-packages/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/ia-privee/forfaits-conformite/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-packages/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/ia-privee/forfaits-conformite/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/private-ai/compliance-packages/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/ia-privee/forfaits-conformite/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/private-ai/compliance-packages/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/en/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/en/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/en/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/en/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/en/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/cybersecurity/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/cybersecurity/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/cybersecurite/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/cybersecurity/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/cybersecurite/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/cybersecurity/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/cybersecurite/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/cybersecurity/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/cybersecurity/penetration-testing/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/cybersecurity/penetration-testing/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/cybersecurite/tests-intrusion/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/cybersecurity/penetration-testing/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/cybersecurite/tests-intrusion/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/cybersecurity/penetration-testing/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/cybersecurite/tests-intrusion/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/cybersecurity/penetration-testing/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/cybersecurity/red-team/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/cybersecurity/red-team/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/cybersecurite/equipe-rouge/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/cybersecurity/red-team/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/cybersecurite/equipe-rouge/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/cybersecurity/red-team/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/cybersecurite/equipe-rouge/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/cybersecurity/red-team/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/cybersecurity/blue-team/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/cybersecurity/blue-team/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/cybersecurite/equipe-bleue/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/cybersecurity/blue-team/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/cybersecurite/equipe-bleue/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/cybersecurity/blue-team/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/cybersecurite/equipe-bleue/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/cybersecurity/blue-team/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/cybersecurity/security-training/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/cybersecurity/security-training/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/cybersecurite/formation/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/cybersecurity/security-training/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/cybersecurite/formation/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/cybersecurity/security-training/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/cybersecurite/formation/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/cybersecurity/security-training/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/access-control/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/access-control/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/controle-acces/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/access-control/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/controle-acces/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/access-control/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/controle-acces/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/access-control/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/defence/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/defence/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/defense/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/defence/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/defense/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/defence/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/defense/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/defence/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/about/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/about/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/a-propos/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/about/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/a-propos/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/about/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/a-propos/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/about/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/rfq/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/rfq/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/soumission/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/rfq/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/soumission/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/rfq/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/soumission/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/rfq/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/privacy/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/privacy/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/confidentialite/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/privacy/"/><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://wardenindustries.com/fr/confidentialite/</loc><xhtml:link rel="alternate" hreflang="en" href="https://wardenindustries.com/privacy/"/><xhtml:link rel="alternate" hreflang="fr" href="https://wardenindustries.com/fr/confidentialite/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://wardenindustries.com/privacy/"/><lastmod>2026-11-11</lastmod></url>
 </urlset>
