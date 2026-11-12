@@ -5,6 +5,7 @@
   var M = JSON.parse(f.getAttribute('data-msgs') || '{}');
   var st = f.querySelector('.fstatus'), btn = f.querySelector('button[type=submit]'), bt = btn.querySelector('.bt');
   var okbox = f.querySelector('.okbox');
+  var phoneRe = /^\+?[0-9 ().\-]{7,}$/;
   var emailRe = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
   function setErr(el, msg) {
     var box = el.closest('.fld'); if (!box) return;
@@ -16,6 +17,7 @@
     var v = (el.type === 'checkbox') ? el.checked : el.value.trim();
     if (el.required && !v) { setErr(el, el.type === 'checkbox' ? M.need_consent : M.req); return false; }
     if (el.type === 'email' && v && !emailRe.test(v)) { setErr(el, M.bad_email); return false; }
+    if (el.type === 'tel' && v && (!phoneRe.test(v) || v.replace(/\D/g, '').length < 10)) { setErr(el, M.bad_phone); return false; }
     setErr(el, ''); return true;
   }
   f.querySelectorAll('input,select,textarea').forEach(function (el) {
