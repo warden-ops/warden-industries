@@ -61,8 +61,23 @@
  </div>
 </section>
 <section class="section"><div class="c rfq">
- <div class="lcard mailcard rv"><p class="eyb">Écrivez-nous</p><h2 class="h2s">Envoyez votre demande par courriel<span class="dot">.</span></h2><p class="p">Décrivez votre besoin à l’adresse ci-dessous. Joignez vos documents directement au courriel. Nous analysons chaque demande et vous répondons par courriel.</p>
-  <div class="mailrow"><a class="btn btn-navy" href="mailto:info@wardenindustries.com?subject=Demande%20de%20soumission">Écrire un courriel<span class="ar"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h9.5M8.5 3.5 13 8l-4.5 4.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span></a><a class="mail" href="mailto:info@wardenindustries.com">info@wardenindustries.com</a></div></div>
+ <div class="lcard formcard rv"><p class="eyb">Contact</p><h2 class="h2s">Décrivez votre besoin<span class="dot">.</span></h2>
+  <form class="wform" id="wform" method="post" action="https://formsubmit.co/ajax/98c485159bc66b02325b078bb84fc9ab" novalidate data-endpoint="https://formsubmit.co/ajax/98c485159bc66b02325b078bb84fc9ab" data-lang="fr" data-msgs='{&quot;ok_h&quot;:&quot;Demande reçue.&quot;,&quot;ok_p&quot;:&quot;Nous répondons par courriel.&quot;,&quot;err&quot;:&quot;L’envoi a échoué. Réessayez ou écrivez-nous directement.&quot;,&quot;req&quot;:&quot;Ce champ est requis.&quot;,&quot;bad_email&quot;:&quot;Courriel invalide.&quot;,&quot;need_consent&quot;:&quot;Veuillez accepter pour continuer.&quot;,&quot;sending&quot;:&quot;Envoi en cours&quot;,&quot;send&quot;:&quot;Envoyer la demande&quot;}'>
+   <div class="fgrid">
+    <div class="fld"><label for="f-name">Nom</label><input id="f-name" name="name" type="text" autocomplete="name" required maxlength="120"></div>
+    <div class="fld"><label for="f-company">Entreprise</label><input id="f-company" name="company" type="text" autocomplete="organization" required maxlength="160"></div>
+    <div class="fld"><label for="f-email">Courriel</label><input id="f-email" name="email" type="email" autocomplete="email" required maxlength="160"></div>
+    <div class="fld"><label for="f-phone">Téléphone (facultatif)</label><input id="f-phone" name="phone" type="tel" autocomplete="tel" maxlength="40"></div>
+    <div class="fld full"><label for="f-service">Service visé</label><select id="f-service" name="service" required><option value="">Choisir un service</option><option value="Cybersécurité">Cybersécurité</option><option value="IA privée">IA privée</option><option value="Contrôle d’accès">Contrôle d’accès</option><option value="Formation">Formation</option><option value="Défense">Défense</option><option value="Autre">Autre</option></select></div>
+    <div class="fld full"><label for="f-message">Message</label><textarea id="f-message" name="message" rows="5" required maxlength="4000" placeholder="Ce que vous voulez protéger ou mettre en place"></textarea></div>
+   </div>
+   <div class="hp" aria-hidden="true"><label>Website<input type="text" name="_honey" tabindex="-1" autocomplete="off"></label></div>
+   <input type="hidden" name="_subject" value="Warden Industries : Demande de soumission"><input type="hidden" name="_captcha" value="false"><input type="hidden" name="_template" value="table"><input type="hidden" name="langue" value="fr">
+   <div class="fld consent"><label class="chkrow"><input type="checkbox" id="f-consent" name="consentement" value="oui" required><span>J’accepte que Warden Industries utilise ces renseignements pour répondre à ma demande. <a href="/fr/confidentialite/">Politique de confidentialité</a></span></label></div>
+   <div class="okbox" tabindex="-1"><b>Demande reçue.</b>Nous répondons par courriel.</div>
+   <div class="frow"><button class="btn btn-navy" type="submit"><span class="bt">Envoyer la demande</span><span class="ar"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h9.5M8.5 3.5 13 8l-4.5 4.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span></button><p class="fstatus" role="status" aria-live="polite"></p></div>
+  </form>
+  <p class="altmail">Vous préférez écrire directement? <a class="mail" href="mailto:info@wardenindustries.com?subject=Demande%20de%20soumission">info@wardenindustries.com</a></p></div>
  <div class="legal">
   <div class="lcard rv"><p class="eyb">Quoi inclure</p><ul class="chk"><li>Le service visé : IA privée, cybersécurité, formation ou contrôle d’accès</li><li>Votre organisation, vos sites et le nombre de personnes concernées</li><li>Les systèmes en place et vos contraintes d’exploitation</li><li>Vos échéances et vos priorités</li></ul></div>
   <div class="lcard rv" style="--d:.1s"><p class="eyb">Prochaines étapes</p><ol class="nlist"><li><b>01</b><span>Nous analysons votre demande</span></li><li><b>02</b><span>Nous pourrions vous poser quelques questions</span></li><li><b>03</b><span>Nous proposons la suite : appel, diagnostic ou soumission écrite</span></li></ol></div>
@@ -86,5 +101,6 @@
  </div>
 </footer>
 <script src="/assets/js/ai.js?v=18" defer></script>
+<script src="/assets/js/form.js?v=1" defer></script>
 </body>
 </html>
