@@ -370,14 +370,15 @@ ul,ol{margin:0;padding:0;list-style:none}
 /* phone (2026-11-12) */
 .hphone{display:inline-flex;align-items:center;gap:8px;font:600 13.5px/1 var(--fb);color:var(--navy);padding:0 6px;white-space:nowrap}
 .hphone .pi{display:grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--steel-lo);color:var(--navy)}
-.hphone .pi svg{width:16px;height:16px}
+.hphone .pi svg{width:16px;height:16px;flex:none}
+.hphone{flex:none;line-height:1;height:34px}
 .hphone:hover .pt{text-decoration:underline;text-underline-offset:4px}
 .mphone{display:flex;align-items:center;gap:10px;margin-top:16px;font:600 15px/1 var(--fb);color:var(--navy)}
 .mphone .pi{display:grid;place-items:center;width:38px;height:38px;border-radius:50%;background:var(--steel-lo)}
 .mphone .pi svg{width:17px;height:17px}
 .altmail .mail+.mail,.cta-act .mail+.mail{margin-left:18px}
 @media (max-width:1200px){.hphone .pt{display:none}.hphone{padding:0}}
-@media (max-width:1020px){.hphone{display:none}}
+@media (max-width:1099px){.hphone{display:none}}
 @media (max-width:700px){.altmail .mail+.mail{display:block;margin:8px 0 0}}
 
 /* brand panel replaces the building photo in the company blocks (2026-11-12) */
