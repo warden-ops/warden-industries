@@ -43,10 +43,12 @@
     btn.disabled = true; bt.textContent = M.sending; st.className = 'fstatus'; st.textContent = '';
     fetch(f.getAttribute('data-endpoint'), { method: 'POST', headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' }, body: JSON.stringify(data) })
       .then(function (r) { return r.json().catch(function () { return {}; }).then(function (j) { if (!r.ok || String(j.success) === 'false') throw new Error('send'); }); })
-      .then(done)
+      .then(function () { done(true); })
       .catch(function () { btn.disabled = false; bt.textContent = M.send; st.className = 'fstatus err'; st.textContent = M.err; });
   });
   function done() {
+    var go = f.getAttribute('data-thanks');
+    if (go) { bt.textContent = M.sending; location.href = go; return; }
     f.classList.add('sent'); st.textContent = ''; btn.disabled = false; bt.textContent = M.send;
     okbox.focus();
   }
